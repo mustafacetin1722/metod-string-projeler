@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner=new Scanner(System.in);
 
         //Soru 1: Verilen bir cümlede kaç adet boşluk karakteri bulunduğunu bulan bir Java programı yazın.
-       /* System.out.println("Lütfen bir cümle girimiz.");
+       System.out.println("Lütfen bir cümle girimiz.");
         String bosluk=scanner.nextLine();
         int boslukSayisi=0;
         for (int i=0; i<bosluk.length(); i++){
@@ -14,7 +14,7 @@ public class Main {
                 boslukSayisi++;
             }
         }
-        System.out.println("Toplam boşluk sayısı : "+boslukSayisi); */
+        System.out.println("Toplam boşluk sayısı : "+boslukSayisi);
 
 
 
