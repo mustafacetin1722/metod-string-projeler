@@ -1,2 +1,1 @@
-# metod-string-odev
-odev
+# metod-string-odev-benim
