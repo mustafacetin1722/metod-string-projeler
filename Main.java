@@ -1,5 +1,5 @@
+import java.util.Scanner;
 
-<<<<<<< HEAD
 public class Main {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
@@ -150,5 +150,4 @@ public class Main {
          */
     }
 }
-=======
->>>>>>> 709959f6b7a0e4dd0339f0d0bd23b0375d76e4c9
+
